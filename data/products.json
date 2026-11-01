@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Fluoride Toothpaste",
+  "type": "Toothpaste",
+  "price": 350,
+  "img": "toothpaste.jpg"
+ },
+ {
+  "name": "Soft Manual Toothbrush",
+  "type": "Brushes",
+  "price": 220,
+  "img": "toothbrush.jpg"
+ },
+ {
+  "name": "Kids Toothbrush Set",
+  "type": "Kids",
+  "price": 380,
+  "img": "kids-brush.jpg"
+ },
+ {
+  "name": "Cordless Water Flosser",
+  "type": "Electric",
+  "price": 8900,
+  "img": "floss.jpg"
+ },
+ {
+  "name": "Antiseptic Mouthwash",
+  "type": "Care",
+  "price": 520,
+  "img": "mouthwash.jpg"
+ }
+]

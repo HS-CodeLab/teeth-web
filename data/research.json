@@ -1,0 +1,65 @@
+[
+ {
+  "title": "Fluoride and Cavity Prevention",
+  "type": "Document",
+  "year": "2025",
+  "min": "12 min read",
+  "desc": "A review of how fluoride protects enamel in children and adults."
+ },
+ {
+  "title": "Gum Disease and Heart Health",
+  "type": "Document",
+  "year": "2024",
+  "min": "15 min read",
+  "desc": "Studies linking periodontal disease with cardiovascular risk."
+ },
+ {
+  "title": "3D Printing in Dentistry",
+  "type": "Document",
+  "year": "2025",
+  "min": "10 min read",
+  "desc": "How digital scans and printing are changing crowns and aligners."
+ },
+ {
+  "title": "Dental Implants: Ten Year Outcomes",
+  "type": "Document",
+  "year": "2024",
+  "min": "18 min read",
+  "desc": "Long term survival rates and what affects implant success."
+ },
+ {
+  "title": "Correct Brushing Technique",
+  "type": "Video",
+  "year": "2025",
+  "min": "6 min watch",
+  "desc": "A short demonstration of brushing and flossing the right way."
+ },
+ {
+  "title": "Root Canal Procedure Explained",
+  "type": "Video",
+  "year": "2024",
+  "min": "9 min watch",
+  "desc": "Step by step walkthrough of a modern root canal."
+ },
+ {
+  "title": "Laser Dentistry Overview",
+  "type": "Video",
+  "year": "2025",
+  "min": "8 min watch",
+  "desc": "Where lasers are used and what patients can expect."
+ },
+ {
+  "title": "Reading a Panoramic X-ray",
+  "type": "Video",
+  "year": "2024",
+  "min": "11 min watch",
+  "desc": "A guided tour of the main structures on a panoramic image."
+ },
+ {
+  "title": "Sugar, Diet and Tooth Decay",
+  "type": "Document",
+  "year": "2025",
+  "min": "9 min read",
+  "desc": "How food choices and timing change your cavity risk."
+ }
+]
